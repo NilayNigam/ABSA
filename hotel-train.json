@@ -214,7 +214,7 @@
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
-            },
+            }
 			
         ],
         "id": 269,
@@ -246,7 +246,7 @@
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
-            },
+            }
 			
         ],
         "id": 269,
@@ -327,7 +327,7 @@
                 "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 299,
         "text": "poor service small dimly lit rooms definitely not worth money, hotel far luxury class, bathrooms poorly designed relation bedroom tiny, room not inbetween nights, overall rooms uncomfortable,"
@@ -343,7 +343,7 @@
                 "sentiment": "Positive",
                 "aspect": "cleanliness",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 309,
         "text": "excellent hotel, great stay, love white linens clean, great looking friendly staff, phillipe thanks recommending townhall, great pictures chair,"
@@ -369,7 +369,7 @@
                 "sentiment": "Negative",
                 "aspect": "staff",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 319,
         "text": "looks no brains stayed clift twice times experience mixed, hotel looks great clean cool lines high ceilings big windows comfortable beds, standard room pretty small, stayed corner room suit nights room glamour filled light good views, service poor spotty indifferent, staff desk overburdened phone calls handling guests harried rushed not warm, dollars night bedroom suit expect kind service, ritz-carlton covered chintz great service absense good service appreciate staff warm exhibit modicum charm beautiful hotel.i say best way hotel like beautiful girl party nothing say,"
@@ -385,7 +385,7 @@
                 "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 329,
         "text": "not stay tiny rooms..bathrooms size closet wife asked not sit particular couch seating, asked couple enjoying glass wine response reservation sit, amazing, not mention stopped entering questioned room staying save money stay nice.if bar wait 30 minutes half martini 12 rudely insulted super hip brand new hairstyle bartender,"
@@ -402,11 +402,11 @@
                 "aspect": "bathroom",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "cleanliness",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 339,
         "text": "vvvv bad went hotel valantine day weekend, hotel nice cool entrance, busy nice sfo called union sqaure, ahs lto fo good shops places eat, hotel small entrance makes look like boutique hotel, really isnt lobby loud club/bar opposite entrance, booked junior suite didnt like, real small like watch little tv, tv junior suite 15inch screen, upgraded bedroom suite wasnt fun room bigger not comfortable bathroom clean small, moved went palace night like star hotel, want suggestions dont save money stay seasons,"
@@ -423,11 +423,11 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 349,
         "text": "wow, clift come, not cift 6 months, saturday night wow service blew away, smiles, single staff person flashed smile endulged need fun conversation, lets face cool place hey san francisco not nyc not los angeles, san francisco beautiful people.. want treated, clift staff recieved message delivering, bravo ate cuba asia, oh gosh meal incredible, goddaughter angel n't taken kind restaurant, staff went way make feel like royalty, not kid place kid kind special, waiter sean n't know say, knew spice food texture, money, knew stay away, recommendations right, honest handsome professional, wanted home, dinner redwood room, n't, expensive drinks fantastic atomosphere energizing, staff redwood room bar none no pun intended good gets, going gang clift seen san francisco light, no attitude, staff fashionable smart quite frankly cool, went way way treat make evening fun right manager checked make sure having great night, staff beautiful make feel, alive clift, stop check wo n't sorry,"
@@ -444,11 +444,11 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "food",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 359,
         "text": "worthless usually stay campton place decided clift try change scenery, service not level hotel purports high level, rooms decent, food bad, n't available porter bags, concierge gave inaccurate information missed breakfast, n't, return campton place level service high food great,"
@@ -465,11 +465,11 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 369,
         "text": "stylish reasonable base review price paid think got cracking deal paying 140 night 4 nights, place ultra cool rooms not huge beautifully designed entire hotel, ignore review says park sf 10 going rate overnight 29 whilst 40 valet parking not cheap n't exhorbitant sf standards, hotel great union square just 5 minute walk flat unusual sf great bar attracts great good city, staff helpful overall no complaints whatsoever,"
@@ -486,11 +486,11 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 379,
         "text": "great service just returned 5 night stay clift, reservations staying clift reading negative feedback site, night knew staying hotel values customers.i not recommend hotel families, weekend similar staying night club, long lines outside redwood room identifies popularity night club, know night club insulated room.the room clean posh, beds silky sheets romantic lighting, older hotel nicely updated.the staff friendly approachable, staff member smile say hello, highly recommend consulting concierge help transportation advice restaurants.i highly recommend clift couples wanting romantic stay san francisco, recommend room service, expensive great food,"
@@ -507,16 +507,16 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "cleanliness",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "room",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 389,
         "text": "good location nice price spent week halcyon hotel, received code main door assigned room no, e-mail approximately week arrived possibility enter room office hours, staff helpful, arrived early morning room wasn__Ã‡_Ã©_ ready manager gave room key offered store luggage room soon ready return hotel wanted to.in addition manager gave information hotel handed map showed main points interest.although hotel located near tenderloin district area isn__Ã‡_Ã©_ scary extremely dirty, hotel quite safe enter door code.the hotel conveniently located, chinatown cable cars bart muni located walking distance.the room quite small equipped need example microwave coffee maker refrigerator, coffee tea sugar dishes.the room cleaned days fresh towels assistance office hours manager.unfortunately hotel no elevator little hard heavy luggage,"
@@ -533,11 +533,11 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
-            },
+            }
         ],
         "id": 399,
         "text": "ask room facing away street just returned weeklong stay halcyon, combining couple days vacation attendance professional conference looking reasonably priced place close public transit overpriced hotel hosting conference, halcyon good not perfect choice stay, problems halycon occupies middle ground notorious tenderloin upscale nob hill neighborhood, aware fact booked room night manager matter-of-factly told blocks immediately south hotel seedy not overly dangerous, urban dweller lives neighborhood rough edges felt reasonably safe dark, solo female travelers not feel confident did, room overlooked street, result extremely sunny extremely noisy, nightclub street station street city san francisco 6:00am trash pickup street repair projects incredibly sleep-deprived experience end week numb exhaustion, time stay halcyon insist having room faces away street, bathroom showed age fussy travelers unacceptable, space tiny sink seen better days bathtub tight sideways toilet, despite problems halycon lot recommend night manager lives property extremely helpful, gave quick overview neighborhood city map checked cheerfully answered questions duration stay, room small met needs bed surprisingly comfortable despite extremely firm, really appreciated having coffeemaker toaster microwave fridge dishes/glasses/cutlery room supply first-rate coffee waiting, day exploration city took right past supermarket came hotel laden provisions, apart couple dinners friends ate meals room saved money stuck diet, bathtub huge clawfoot beast shower curtain surrounding spotlessly clean, soaking tub long day climbing san francisco hills really soothed aching legs feet allowed reflect events day, end stay viewed bathroom battered sink quaint, wireless internet connection no additional fee enabled stay touch work friends work web stuff plan excursions public transportation"
@@ -635,7 +635,7 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "service",
                 "target_entity": "hotel"
@@ -651,7 +651,7 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
@@ -667,17 +667,17 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -693,12 +693,12 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -725,7 +725,7 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -741,12 +741,12 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "service",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "general",
                 "target_entity": "hotel"
@@ -762,12 +762,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -783,17 +783,17 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "cleanliness",
                 "target_entity": "hotel"
@@ -809,7 +809,7 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "price",
                 "target_entity": "hotel"
@@ -825,12 +825,12 @@
                 "aspect": "price",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
@@ -846,12 +846,12 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -867,12 +867,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "food",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
@@ -888,7 +888,7 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "general",
                 "target_entity": "hotel"
@@ -915,17 +915,17 @@
                 "aspect": "cleanliness",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "service",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -941,7 +941,7 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "price",
                 "target_entity": "hotel"
@@ -952,7 +952,7 @@
     },
 	{
         "opinions": [
-		    {
+	   {
                 "sentiment": "Negative",
                 "aspect": "service",
                 "target_entity": "hotel"
@@ -962,7 +962,7 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -980,8 +980,7 @@
             }
 		],
         "id": 649,
-        "text": "going san francisco you__Ã‡_Ã©Ãˆe going san francisco__Ã‡ br/ days wouldn__Ã‡_Ã©_ wear flowers hair instead choose wear walking boots hills incredible.my girlfriend visited city weeks 2002 fell love welcoming laid authentic vibe.we stayed queen anne hotel corner sutter octavia it__Ã‡_Ã©_ old finishing school girls apparently haunted friendly ghost likes tuck people bed they__Ã‡_Ã©Âe drink, didn__Ã‡_Ã©_ drink helps create special atmosphere special hotel.i__Ã‡_Ã©Â– not sure he__Ã‡_Ã©_ roberto concierge great guy genuinely nice man try know point right direction want do.the hotel couple miles downtown san francisco whilst journey walkable unbelievable hills make pretty tiring, lot city just downtown hotel__Ã‡_Ã©_ location means not far parts city golden gate park haight ashbury marina leads walk golden gate bridge favourite things hotel location pacific heights means not particularly touristy area city want live like local chill lafayette park stroll fillmore great bars restaurants grove harry__Ã‡_Ã©_ deserve special mention little like san francisco advise visitor try away obvious tourist traps fisherman__Ã‡_Ã©_ wharf cable cars, it__Ã‡_Ã©_ truly beautiful place great locals looking forward going soon"
-    },
+        "text": "going san francisco you__Ã‡_Ã©Ãˆe going san francisco__Ã‡ br/ days wouldn__Ã‡_Ã©_ wear flowers hair instead choose wear walking boots hills incredible.my girlfriend visited city weeks 2002 fell love welcoming laid authentic vibe.we stayed queen anne hotel corner sutter octavia it__Ã‡_Ã©_ old finishing school girls apparently haunted friendly ghost likes tuck people bed they__Ã‡_Ã©Âe drink, didn__Ã‡_Ã©_ drink helps create special atmosphere special hotel.i__Ã‡_Ã©Â– not sure he__Ã‡_Ã©_ roberto concierge great guy genuinely nice man try know point right direction want do.the hotel couple miles downtown san francisco whilst journey walkable unbelievable hills make pretty tiring, lot city just downtown hotel__Ã‡_Ã©_ location means not far parts city golden gate park haight ashbury marina leads walk golden gate bridge favourite things hotel location pacific heights means not particularly touristy area city want live like local chill lafayette park stroll fillmore great bars restaurants grove harry__Ã‡_Ã©_ deserve special mention little like san francisco advise visitor try away obvious tourist traps fisherman__Ã‡_Ã©_ wharf cable cars, it__Ã‡_Ã©_ truly beautiful place great locals looking forward going soon"},
 	{
         "opinions": [
             {
@@ -1011,17 +1010,17 @@
                 "aspect": "service",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1037,12 +1036,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "food",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1058,12 +1057,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1079,17 +1078,17 @@
                 "aspect": "service",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "property",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -1105,12 +1104,12 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1126,12 +1125,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -1147,7 +1146,7 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Negative",
                 "aspect": "price",
                 "target_entity": "hotel"
@@ -1174,12 +1173,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -1195,12 +1194,12 @@
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1216,12 +1215,12 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1232,12 +1231,12 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1248,12 +1247,12 @@
     },
 	{
         "opinions": [
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	   {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -1264,22 +1263,22 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
@@ -1290,17 +1289,17 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "general",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
@@ -1311,17 +1310,17 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
@@ -1332,22 +1331,22 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "service",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "general",
                 "target_entity": "hotel"
@@ -1358,12 +1357,12 @@
     },
 	{
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "general",
                 "target_entity": "hotel"
@@ -1374,17 +1373,17 @@
     },
     {
         "opinions": [
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "food",
                 "target_entity": "hotel"
