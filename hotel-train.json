@@ -1,0 +1,1396 @@
+[
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 209,
+        "text": "business trip ok hotel fine evening business, mattress comfortable room clean together.the concierge/front desk/ doorman nice n't know girl normally stocked necessities towels, kudos bathroom, lavender walls given trouble eyes days longer.room bit sparse personal taste love hip modern hotels homeless people walking place you.around corner indian restaurant does great indian food left 2 blocks left halfway street hotel entrance,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 219,
+        "text": "okay downstairs medicore room overrated overpriced hotel, downstairs okay dimly lighted decor elevator trying european style just saving energy dusting, hotel floor totally different unflattering bright light grey walls.room clean somewhat small great bed tiny tv not flat screen delicious room service food, bathroom looks like designer room copy 3-star hotel room valet parking ridiculous expensive 45 bucks park half block,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 229,
+        "text": "shame hotel wasnt good restaurant, arrived clift late afternoon struggle luggage 3 bags, reception staff unhelpful uninterested, eventually managed sorted shown room 9th floor, room suite tried make separate living room putting curtain inbetween bedroom living room, bathroom tiny dirty, stayed mum unfortunatley night didnt feel suffering bad foot, decided phone reception ask doctor come hotel told ther wasnt local receptionist closest told phone, eventually decided hospital just safe, came hospital evening doormen talking girls outside let, following night ate hotel restaurant aisa cuba fantastic, think hotel intrest restaurant bar, end day sleeping ignored wouldnt stay,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 229,
+        "text": "shame hotel wasnt good restaurant, arrived clift late afternoon struggle luggage 3 bags, reception staff unhelpful uninterested, eventually managed sorted shown room 9th floor, room suite tried make separate living room putting curtain inbetween bedroom living room, bathroom tiny dirty, stayed mum unfortunatley night didnt feel suffering bad foot, decided phone reception ask doctor come hotel told ther wasnt local receptionist closest told phone, eventually decided hospital just safe, came hospital evening doormen talking girls outside let, following night ate hotel restaurant aisa cuba fantastic, think hotel intrest restaurant bar, end day sleeping ignored wouldnt stay,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 239,
+        "text": "great location modern appeal modern amenities asia cuba famous redwood room bar reason choosing hotel, like hip modern hotel, n't hurt offer little value money,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 249,
+        "text": "love place, not overstate great hotel, ignore bad reviews think people bad day little rude, smile fun staff youru best hotel experience, reviews old say personal experience new managers place shine, just keeps getting better rooms beautiful sumptuous king sized beds fabulous sheets, like million thread count, huge comfy bed not want, order room service food awesome little pricey like room service worth, live little, stay, time girlfriend rained day did n't care, went great little thai place right street ate watched movies just enjoyed wonderful room, super clean great location beautiful lobby restaurant best hotels stayed think sf,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 259,
+        "text": "nice not worth money chose hotel central location wanted nice place base tour sf, homeless giving hassle just ignore went eventually not trouble, room nice small stayed schrager hotel sanderson london nicer, ate restaurant overpriced food worse asia cuba ny, bar cool, stop road trip usa generally worse hotels half price.very difficult street saw hotel exterior make sure good map driving,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			
+        ],
+        "id": 269,
+        "text": "great design stayed holiday weekend bf no noisy, good sized king room 8th floor bathroom quite small 300 room, staff attentive tried accomodate needs, check-out time 1pm great throbbing headache, beautiful common areas asia cuba serves amazing breakfast, fyi- sf weekend try supperclub 3rd harrsion great place dinner drinks dancing,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			
+        ],
+        "id": 269,
+        "text": "great design stayed holiday weekend bf no noisy, good sized king room 8th floor bathroom quite small 300 room, staff attentive tried accomodate needs, check-out time 1pm great throbbing headache, beautiful common areas asia cuba serves amazing breakfast, fyi- sf weekend try supperclub 3rd harrsion great place dinner drinks dancing,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 279,
+        "text": "great designer hotel**** loved hotel, great city designer hotel, love good surprises hotel good lobby cosy fireplace stepp elevators green violet red mirrors special bright, rooms friendly bathroom small comfy, no ikea furniture user wrote philippe starck, bar redwood place san francisco crowded great, did n't dinner asia cuba restaurant looked perfect, look details hotel love, special.staff friendly look good, not kind staff service classic 4-5 star hotel like ritz new generation hotel, oh yes room rate not expensive, bad old furnished hotels california tour cost lot right door grand cafÂÂ‘Ã„ restaurant brasserie serve excellent seafood wine end review like design fashion perfect location hotel,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 289,
+        "text": "great room service boyfriend spent week clift not fault single thing, staff friendly helpful room service good hardly bothered going eat bed huge comfortable slept, room overlooking street no problems noise, like try different hotels returned san francisco not hesitate staying clift,  "
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 299,
+        "text": "poor service small dimly lit rooms definitely not worth money, hotel far luxury class, bathrooms poorly designed relation bedroom tiny, room not inbetween nights, overall rooms uncomfortable,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 309,
+        "text": "excellent hotel, great stay, love white linens clean, great looking friendly staff, phillipe thanks recommending townhall, great pictures chair,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 319,
+        "text": "looks no brains stayed clift twice times experience mixed, hotel looks great clean cool lines high ceilings big windows comfortable beds, standard room pretty small, stayed corner room suit nights room glamour filled light good views, service poor spotty indifferent, staff desk overburdened phone calls handling guests harried rushed not warm, dollars night bedroom suit expect kind service, ritz-carlton covered chintz great service absense good service appreciate staff warm exhibit modicum charm beautiful hotel.i say best way hotel like beautiful girl party nothing say,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 329,
+        "text": "not stay tiny rooms..bathrooms size closet wife asked not sit particular couch seating, asked couple enjoying glass wine response reservation sit, amazing, not mention stopped entering questioned room staying save money stay nice.if bar wait 30 minutes half martini 12 rudely insulted super hip brand new hairstyle bartender,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 339,
+        "text": "vvvv bad went hotel valantine day weekend, hotel nice cool entrance, busy nice sfo called union sqaure, ahs lto fo good shops places eat, hotel small entrance makes look like boutique hotel, really isnt lobby loud club/bar opposite entrance, booked junior suite didnt like, real small like watch little tv, tv junior suite 15inch screen, upgraded bedroom suite wasnt fun room bigger not comfortable bathroom clean small, moved went palace night like star hotel, want suggestions dont save money stay seasons,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 349,
+        "text": "wow, clift come, not cift 6 months, saturday night wow service blew away, smiles, single staff person flashed smile endulged need fun conversation, lets face cool place hey san francisco not nyc not los angeles, san francisco beautiful people.. want treated, clift staff recieved message delivering, bravo ate cuba asia, oh gosh meal incredible, goddaughter angel n't taken kind restaurant, staff went way make feel like royalty, not kid place kid kind special, waiter sean n't know say, knew spice food texture, money, knew stay away, recommendations right, honest handsome professional, wanted home, dinner redwood room, n't, expensive drinks fantastic atomosphere energizing, staff redwood room bar none no pun intended good gets, going gang clift seen san francisco light, no attitude, staff fashionable smart quite frankly cool, went way way treat make evening fun right manager checked make sure having great night, staff beautiful make feel, alive clift, stop check wo n't sorry,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 359,
+        "text": "worthless usually stay campton place decided clift try change scenery, service not level hotel purports high level, rooms decent, food bad, n't available porter bags, concierge gave inaccurate information missed breakfast, n't, return campton place level service high food great,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 369,
+        "text": "stylish reasonable base review price paid think got cracking deal paying 140 night 4 nights, place ultra cool rooms not huge beautifully designed entire hotel, ignore review says park sf 10 going rate overnight 29 whilst 40 valet parking not cheap n't exhorbitant sf standards, hotel great union square just 5 minute walk flat unusual sf great bar attracts great good city, staff helpful overall no complaints whatsoever,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 379,
+        "text": "great service just returned 5 night stay clift, reservations staying clift reading negative feedback site, night knew staying hotel values customers.i not recommend hotel families, weekend similar staying night club, long lines outside redwood room identifies popularity night club, know night club insulated room.the room clean posh, beds silky sheets romantic lighting, older hotel nicely updated.the staff friendly approachable, staff member smile say hello, highly recommend consulting concierge help transportation advice restaurants.i highly recommend clift couples wanting romantic stay san francisco, recommend room service, expensive great food,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 389,
+        "text": "good location nice price spent week halcyon hotel, received code main door assigned room no, e-mail approximately week arrived possibility enter room office hours, staff helpful, arrived early morning room wasn__Ã‡_Ã©_ ready manager gave room key offered store luggage room soon ready return hotel wanted to.in addition manager gave information hotel handed map showed main points interest.although hotel located near tenderloin district area isn__Ã‡_Ã©_ scary extremely dirty, hotel quite safe enter door code.the hotel conveniently located, chinatown cable cars bart muni located walking distance.the room quite small equipped need example microwave coffee maker refrigerator, coffee tea sugar dishes.the room cleaned days fresh towels assistance office hours manager.unfortunately hotel no elevator little hard heavy luggage,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Neutral",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 399,
+        "text": "ask room facing away street just returned weeklong stay halcyon, combining couple days vacation attendance professional conference looking reasonably priced place close public transit overpriced hotel hosting conference, halcyon good not perfect choice stay, problems halycon occupies middle ground notorious tenderloin upscale nob hill neighborhood, aware fact booked room night manager matter-of-factly told blocks immediately south hotel seedy not overly dangerous, urban dweller lives neighborhood rough edges felt reasonably safe dark, solo female travelers not feel confident did, room overlooked street, result extremely sunny extremely noisy, nightclub street station street city san francisco 6:00am trash pickup street repair projects incredibly sleep-deprived experience end week numb exhaustion, time stay halcyon insist having room faces away street, bathroom showed age fussy travelers unacceptable, space tiny sink seen better days bathtub tight sideways toilet, despite problems halycon lot recommend night manager lives property extremely helpful, gave quick overview neighborhood city map checked cheerfully answered questions duration stay, room small met needs bed surprisingly comfortable despite extremely firm, really appreciated having coffeemaker toaster microwave fridge dishes/glasses/cutlery room supply first-rate coffee waiting, day exploration city took right past supermarket came hotel laden provisions, apart couple dinners friends ate meals room saved money stuck diet, bathtub huge clawfoot beast shower curtain surrounding spotlessly clean, soaking tub long day climbing san francisco hills really soothed aching legs feet allowed reflect events day, end stay viewed bathroom battered sink quaint, wireless internet connection no additional fee enabled stay touch work friends work web stuff plan excursions public transportation"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 409,
+        "text": "avoid dump, carpets ripped doors kicked poorly repaired disgustingly dirty smelly carpets yeah right microwave bookshelf, not stay out-dated brochure shows pics world not dump,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 419,
+        "text": "great, spent nights san francisco celebrate birthday anniversary spent night east brother light station point richmond great little story staff friendly professional extremely helpful.we booked royal court room luxury linens flat screen tv amenities robes slippers deluxe toiletries etc. expected, room 75 11th floor nob hill view workday city amazingly quiet night, knew no airconditioning ceiling fan open window kept room comfortable, staff offered additional fan room desired declined not necessary.we purposely wanted stay close bart station local buses flew wanted exclusively local transportation feet, hotel located just union square close, highly recommend hotel stay,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 429,
+        "text": "romantic hotel hotel nothing special romantic, ceiling fan low profile light gave nice glow bed, bathroom feature allowing relaxing bath, noise hoped n't unbearable, location great block away cable cars,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Neutral",
+                "aspect": "general",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 439,
+        "text": "good location nice close shopping union square big plus, average,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 449,
+        "text": "tired worn stayed kensington park hotel 19/01/08 4 nights, hotel reasonable area financial district hotel tired worn given described refurbished room, carpet room situated 12th floor dirty heating looked worked like ark did not warm room slightest, windows extremely draughty housekeeping noisy early morning talking loudly outside room displaying not disturb sign door, paid 130 night not use hotel, tour alcatraz highlight stay visit san fransisco, book direct alcatraz tours pier 33 near fishermans wharf save lot booking tour company,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 459,
+        "text": "union square jewel loved hotel ammenities location price, stayed 3 nights needed drive car, park offer lots information impatience, steps away union square trolley rides great restaurants shopping, best location time visitors, got great price 100/night booking venere.com lived information listed, just corner good borders books macy short stroll historic fisherman wharf, loved experience, concierge fellow guest helped navigate route sacramento cross golden gate bridge departed, come stay, fabulous, caveat visit july bring jackets trench coat, windy quite cool time year, 90 inland 60 sf day cooler night,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 469,
+        "text": "excellent hotel great location lovely boutique hotel great location, right union square, half block cable car great restaurants, service excellent took great care making restaurant reservations shuttle arrangements general area info, boutique hotel like kensington park anyday stay not just number,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 479,
+        "text": "great hotel location union square stay great 6 people total 3 rooms, room little different, enjoyed location close union square shopping just cable car away wharf, staff friendly helpful, definately stay returning sf,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 489,
+        "text": "thanks tripadvisor, visited march weather perfect, booked month early used aaa rate, economical used tripadvisor reviews make choice, arrived checked luggage rooms not quite ready, receptions staff great, lobby hearkens early 20th century bavarian hotels, nice, daily tea available guests afternoons.room great, no ac bay need summer, room looked similar pictures website spacious flat screen tv wall mounted no furniture desk extra chair present, beds bit old comfortable, bathroom cleanthere good complimentary coffee tea mornings just willing 9th floor it.all ca n't wrong kensington park, location amazing, 5 minute walk powell bart station powell cable car line closest stop literally fifty paces powell, really union square close major shopping, 10 minute walk china town, 30 bus goes wharf/ghiradelli square area palace fine arts stockton street powell closest bus stop yards union stockton.there walgreens block hotel right corner need basic goods snacks, spring disposable cooler ice ice machines floors 9 12, borders steps away case need seattle best coffee guidebook, caveats bathroom lobby-no ac-ice not convenient no ice bucket linersdespite definitely recommend hotel,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 499,
+        "text": "nice hotel perfect location 2 rooms just returned stay kensington park hotel, rooms nice clean comfy, desk staff helpful accommodating, true little louder face post st. maybe ask room ceiling fan stuffy windows closed, bob concierge helpful, quite nice bars restaurants walking distance, check lefty o'doule geary st. st. francis hotel nice irish piano bar/pub casual super fun gather piano sing long, cosmopolitan restaurant great food best cosmo better sam bar huckleberry martini outstanding, breakfast mason st. restaurant mason south post st. block lori diners, n't waste time waiting line dottie true blue cafe not worth it.your best bet tour joe, wonderful took 6 hr, wine tour, joe recommendation stopped robledo winery day good wine excellent experience, price competative service personality knowledge exceptional, thouroughly enjoyed time san francisco. hojnacki,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 509,
+        "text": "great time city week family stayed kensington park hotel san francisco, time hotel visit city, wonderful time service incredible, given fantastic directions wonderfulsuggestions places, recommended hotel 2 friends mother law know picky, sure soon, thanks wonderful stay hansens,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 519,
+        "text": "great boutique hotel enjoyed 4 nights kensington park hotel, staff not make stay comfortable pleasant, location excellent room charming, sherry tea offered guests foyer afternoon nice touch.we definitely returning,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 529,
+        "text": "reservation not mean stay family reserved confirmed rooms, reconfirmed rooms starting trip, arrived offered check daughter late arrival assured room assigned provided room number, arrived joined displaced travelers sent property, instead nice room reserved sleeping bed folded wall, profound disappointment loss quality family time difficult schedule, apologetic no management staff available resolve problem,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 539,
+        "text": "expected staying 4 5 star hotels n't sure expect boutique hotel downtown sf 5 nights expected, stylish hotel lobby right 30 desk complete mail keyboxes lobby grand piano mysterious hooded piano virtuoso complimentary afternoon tea sherry couple spacious elevators complete antique uphostered sofa bench thing missing elevator operator floor room spacious 4 wanted place crash long day, 2 double beds quite comfortable used queen beds, bathroom modern towels toiletries hairdryer quite acceptable, overall room linen quite clean furniture carpet bedspread updated room overall 4 star rating queen beds make 5 star, maid service virtually unseen knew day beds turned day returned contents safe undisturbed, safe hotel.we asked received non-smoking room situated rear hotel view n't spectacular certainly quieter streetfront, business centre useful equiped complimentary printer, 12th flr did n't check othe floors wireless internet access room laptop computer.the hotel right union square centre shopping shopping shopping, turn left hotel lobby standing catch famous cable car fisherman wharf short walk chinatown, union square bonus hotel room bit small parents grown teenagers park benches entertainment sights comfort great location hotel.beware panhandlers quite n't threatening, stay close powell street cable car night xxx theatres massage palours, blocks west powell civic centre asian art museum, area filled transient homeless not overly threatening unnerving esp, children.if travelling sf airport bart powell market street station safe inexpensive convenient i.e, no traffic congestion costly taxi rides 4 short blocks hotel, bart station foot cable car line great way greeted sf, n't bother renting car planning spend time downtown sf parking cost cable car certainly make wish n't, buy citypass 7 day muni transit pass need ride cable car plus 1/2 price tickets sf museum modern art asian art museum exploratorium choice museums worthwhile expenditure, plan spend 2 hours fast tour 4 hours thorough tour 2 museums refer worth visit n't started asian art museum 2 hrs closed, exploratorium excellent place kids.finally downtown sf fisherman wharf dress warmth, breezy plus bitterly cold clouds fog rolls, inland south 10-15 degree temperature difference, want golden gate bridge alcatraz harbour tour mid-day chance cloud fog rolling out.hope helps,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 549,
+        "text": "perfect spot, daughter enjoyed delightful stay wonderful hotel san francisco, week, little concerned no air conditioner florida, turned no problem, weather outside cool visited late july window opened, closed night cold outside, room adequate quiet evening beds extremely comfortable, stayed hotels far cleanest, bathroom kept spotless day request toilet paper honored immediately service desk notch, bob concierge quite helpful renting vehicle helping trip napa valley.the hotel convenient big plus visiting terrific city, right union square couple blocks cable car turn, walking distance chinatown japan center, trolley stops nearby making trips fisherman wharf breeze, advantage tea sherry late afternoon delightful, napa valley 1 1/2 hrs away visit petrified forest old faithful, carmel 2 hrs away drive magnificent, saw seals sunning rocks, truly memorable ride.all kensington park hotel helped make stay san francisco remember, highly recommend love stay,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 559,
+        "text": "affordable great location guest hotel times years pleasurable stay great value, location unbeatable, just block union square walking distance shopping well-known restaurants theater bart cable cars.the rooms eleventh floor little bit expensive come extra amenities like bathrobes cd players continental breakfast nearby cafe, bob concierge character willing help, stay rooms hotel quieter fabulous view city, no not modern hotel city updated clean wonderful theater adjacent farallon restaurant best sf"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "price",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 569,
+        "text": "probably value money hotel stayed stayed 3 years ago nothing impressed place, location unbeatable price fab, think paid just 100 clean cozy room sf bargain, rest hotel agree reviewers said classy san fransisco staff friendly helpfull, special note bob concierge remember visit, stay heartbeat"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 579,
+        "text": "great location friendly staff went san francisco friends birthday celebration chose hotel location, confess walked lobby thought oh no gotten, heavily decorated victorian manner course enhanced lavish christmas decorations, lean minimalist decor not place, staff friendly parking lot street fee rooms comfortable great beds rooms lobby gas logs fireplaces tea coffee available sherry cookies 4 p.m. continental breakfast good finally hungered real breakfast went morning, 24-hour concierge service especially helpful complimentary shuttle leaves different times morning want san francisco, took union square morning cal academy sciences, driver helpful directing bus lines come home.the location great easy walking japan town fillmore street shopping restaurants, san francisco wonderful transit cab,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 589,
+        "text": "great hotel beaten path recently stayed pacific heights gem, room excellent breakfast big skip lunch able pick hotel wi-fi room, stayed wedding night san fran 20th anniversary really happy, bus lines n't deal tourists street busy-ness downtown, staff took great care definitely stay return"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 599,
+        "text": "great experience special thanks darlene beautiful room fireplace, comforting nestled bed watch flickering flames fireplace.i recommend queen anne sure return"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+        ],
+        "id": 609,
+        "text": "great place stay s.f, regular hotel san francisco, used relatively years trip happy queen anne just welcoming comfortable remembered, fact great residential neighborhood somewhat main tourist track big plus,"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+        ],
+        "id": 619,
+        "text": "good deal pros room simple clean spacious san francisco standards, service good well-intentioned slightly odd certainly not hip, hotel offers shuttle service towncar care wait, parking free street, free cognac cookies tea time nice welcoming touch.cons rooms bit worn clean spare n't quite live lobby pictures website, christmas decorations past new years, location bit way tradeoff free parking cheaper rates.considering making reservations restaurant quince street night n't feel like messing taxis bus, warned atmosphere neighborhood prices not bargain"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 629,
+        "text": "victorian san francisco stayed nights little gem property san francisco, 1800 girls boarding school turned small boutique/ b b hotel, located regular neighborhood city short 2 block walk japantown 4 blocks opposite direction cable car line, short drive choose san francisco sights attractions, hotel victorian style inside, rooms comfortable reasonably priced, offer complimentary breakfast a.m. tea sherry afternoon, real plus parking s.f, critical, hotel nice place stay bit hectic beaten path hotels san francisco,"
+    },
+	{
+        "opinions": [
+		    {
+                "sentiment": "Negative",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 639,
+        "text": "nice rooms stayed room 310 lovely king fireplace, room bathroom excellent spacious overlooking street, hasten add room reserved number not available desk clerk assigned inferior room, refusing room upgraded terrific room 310. continental breakfast cheap relatively tasty nice setting, locale hotel convenient japantown not great walking neighborhood, concierge roberto peach true professional helping needed excellent knowledge city, problems property result desk staff, issues came stay:1 sent package usps express mail called times insure aware arrival, called arrived told turned away, human error blamed mispelled registration concluded intended recipient n't staying hotel, reasonable n't called times alert package, express packages did expect, add insult injury guy turned away people spoke, manager did good job obtaining package prior arrival phone calls missed important business package, file ineptitude.2 party college age men began night room floors total property, music rowdy behaviour, let 11pm began calling night manager.he said check, hour later no change says sent n't know going, implore, 1 hour later no change, says tell, no results lie awake 4am checkout early flight, desk question night manager says group watching movie got excited certain parts, guests asked, told quiet replied, replied n't good responsibility lets group people room does nothing consequenses.no response night manager continues busy work checkout, simply stated not pay night owed apology, reply n't disturbed you., asked general manager day received, received mail 10 days later credited night.in summary lovely rooms bush league desk management, lost night sleep kind service not look city scores hotels"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 649,
+        "text": "going san francisco you__Ã‡_Ã©Ãˆe going san francisco__Ã‡ br/ days wouldn__Ã‡_Ã©_ wear flowers hair instead choose wear walking boots hills incredible.my girlfriend visited city weeks 2002 fell love welcoming laid authentic vibe.we stayed queen anne hotel corner sutter octavia it__Ã‡_Ã©_ old finishing school girls apparently haunted friendly ghost likes tuck people bed they__Ã‡_Ã©Âe drink, didn__Ã‡_Ã©_ drink helps create special atmosphere special hotel.i__Ã‡_Ã©Â– not sure he__Ã‡_Ã©_ roberto concierge great guy genuinely nice man try know point right direction want do.the hotel couple miles downtown san francisco whilst journey walkable unbelievable hills make pretty tiring, lot city just downtown hotel__Ã‡_Ã©_ location means not far parts city golden gate park haight ashbury marina leads walk golden gate bridge favourite things hotel location pacific heights means not particularly touristy area city want live like local chill lafayette park stroll fillmore great bars restaurants grove harry__Ã‡_Ã©_ deserve special mention little like san francisco advise visitor try away obvious tourist traps fisherman__Ã‡_Ã©_ wharf cable cars, it__Ã‡_Ã©_ truly beautiful place great locals looking forward going soon"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 659,
+        "text": "bags character really great hotel draped red velvet antique furniture oil paintings, sherry afternoon nice touch, staff helpful definitely"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 669,
+        "text": "bags character really great hotel draped red velvet antique furniture oil paintings, sherry afternoon nice touch, staff helpful definitely"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 679,
+        "text": "great service family 5 year old twins, great stay, room smallish expected san francisco staff outstanding, decor lovely location slightly noisy"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 689,
+        "text": "does not disappoint, stayed 5 days white swan inn business trip month, plenty accomodation options san francisco thoroughly impressed previous reviews hotel decided go.i arrived bart approximately 2100 walked short distance hotel 10 minutes, clerk helpful welcoming check-in, lobby warm inviting fireplace crackled jar cookies tempting, given keys room 31 way second floor.i pleased room large warm inviting, romantic good way spouse, bed large comfortable various pillows choose, fireplace created inviting ambiance books wallpaper antique furnishings comforting.the breakfasts european distinction small pastries frittatas cereals fruit, coffee excellent, evening wine appetizers delicious elegantly displayed thoroghly satisfying, pleasant experience visit guests hotel.the hotel located bush street walking distance things san francisco, dollars spent transportation bart airport, 10 minutes walking distance shopping chinatown 30 minutes pier 39. numerous restaurants area.i impressed friendliness people san francisco, city centered arts people, liberal reputation city not completely overt me.i absolutely stay hotel hoping return near future spouse"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 699,
+        "text": "exceptional venue white swan inn wonderful place clean comfortable rooms friendly helpful staff exceptional gourmet breakfast wine hors d'ouevres receptions everyday outstanding location right heart san francisco easy access cable car, recommend venue definitely return future"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 709,
+        "text": "wonderful boutique hotel, trip san francisco inn experience boutique hotel, check-in check-out extremely impressed quality service, staff helpful friendly giving directions making restaurant reservations suggesting sites visit general making feel home, building quite charming comfortable, room larger looked website clean cozy, breakfasts abundant tasty did n't need lunch, wine cheese afternoon gave time wind day sightseeing meeting guests doing, way cheese crackers fruit wine selections great day cookies return sf staying white swan inn"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 719,
+        "text": "loved room fireplace in-room gas fireplace comes flip switch perfect chilly san francisco evenings location ca n't beat 2 1/2 blocks union square cable cars, free continental breakfast rate free afternoon wine snacks perfect way recharge heading evening activities, throw nightly turn service helpful staff n't ask make white swan inn choice future stays"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 729,
+        "text": "lgreat hotel value husband stayed white swan inn days.the room outdated little needs updated clean neat, staff friendly helpful.the breakfast good, unfortunately wine cheese afternoon, quietness want quiet not come san francisco street noise mornings.we definitely come white swan inn try sister hotels"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 739,
+        "text": "not good hoped wife not happy hotel, no air-conditioning noise rooms poor.for money pay 240.00 n't consider hotel worthy price asked.the breakfast just adequate.if want quiet comfortable hotel stay not recommend place"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "price",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 749,
+        "text": "pretty good value family recently spent 2 nights white swan inn, staff gracious helpful rooms little dated musty, money good place stay think gone notches visit"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 759,
+        "text": "ca n't wait stay, joie vivre hotel website recommended white swan inn based hotel preferences, visited san francisco wanted comfortable place come home evening travelling did n't want stay late night, stayed room 36 week just loved, hotel quieter second floor elevator need lovely tree outside window bring outside, born england american citizen immediately felt right home home ca n't switch fireplace bedside enormous plus, sf nights mornings chilly pure heaven going watching tv bed getting dressed morning, bed super comfy loved quaint tub delicious-smelling soap shampoo, cook wonderful breakfast breads hot items delicious, boiled egg sandwich fruit lunch later, wine/cheese/hot hors d'ouevres evening provide great way know fellow guests want light dinner economical way food included nightly rate, staff white swan friendly worked years, print helpful sightseeing suggestions restaurant useful tips, inn sell great padded jacket m f n't bring warm coat, wore day light warm wind-resistent, bought bathrobes nothing light comfortable home, fellow guests woman staying said regularly stays white swan feels safe, concur, secure cozy home away home ca n't imagine staying return"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 769,
+        "text": "perfect way, no rating category high delightful boutique hotel, way expectations, not space place justice, room wonderful having fireplace use june treat, desk staff helpful time needed, wine reception evening real treat gourmet continental breakfast, pull hotel does not look particularly impressive outside, just wait, worth penny spend stay, conveniently located, took car garage trolley bus access nearby, search place stay san francisco"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 779,
+        "text": "white swan regular sf staying white swan 2-4 times year past years favorite jdv hotel daughter sf neighborhood lambourne closed, disappointed.the entire staff manager desk staff kitchen staff maintenance staff friendly helpful, way hospitable informative, morning breakfast superb far chain hotel continental manufactured fare, evening wine/cheese/salads reception generous relaxing.the location just market square excellent.if looking chain hotel experience warm welcoming wonderful small inn choice"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 789,
+        "text": "unique fun change pace, stayed white swann 3 nights february loved, breakfasts great lots choices fresh fruit quiche croissants, rooms different fun daughter loved bears ended taking home, evening wine social nice time meet relax, hotel close cable cars union square, easy, tip muni 3 day pass buses cable cars, save tons transportation. 18 days great deal.you not disappoitnted white swann inn"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 799,
+        "text": "unexpected charm inner city recently spent 2 days white swan inn.the hot breakfast delicious evening wine reception nice way unwind day hiking hills san francisco, room quiet considering inn location busy street, no traffic noise birds courtyard started cooing 5 a.m"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 809,
+        "text": "b islanders loved ws 30th wedding anniversary chose trip san francisco, research fortunately picked white swan 4 nite stay, london 2006 attracted european boutique style hotel, not hotel particularly modern, love history antiques atmosphere presents fall love hotel, staff welcoming knowledgeable area, provide list outstanding local restaurants exceptionally helpful tourists sites, sf city tour recommended incredible, hotel totally convenient downtown sf, block cable car blocks downhill union square, block uphill mark anthony hotel grace cathedral, room great, splurged deluxe king bed room, spacious windows overlooking greenery area beautifully decorated red/green plaid bedding floral wallpaper, unexpected wonderful discovery hotel original perfect working condition old type elevator pull metal screen door think movie charades food fabulous starting hot breakfast changed daily, loved french breadpudding, breakfast included roomrate variety eggs quiche sausage fresh fruit toast pastries hot gourmet oatmeal, breakfast room antiques, early evening wine served variety cheese crackers fruit fresh vegies dessert, late evening coming cold walk rain welcomed hot cider fresh homemade cookies, hotel great highlites trip, highly recommend particularly couples, course stay"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 819,
+        "text": "line service 14 years san francisco husband, booked 4 night stay white swan inn not disappointed, not really knowing city staff extremely helpful recommendations restaurants places things, pleasant happy accomodate questions requests.the valet extremely convenient considering parking city pain glad available, place not run cookie cutter best western, looking character charm history look no, hotel 100 years old extremely well-kept age, room large luxury king walk-in closets fireplace room, extremely charming wonderful time, conveniently located walking distance just city far walk cable cars blocks hotel, definately recommend place"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 829,
+        "text": "charming hotel great location, charming hotel, staff friendly helpful, booked deluxe king room clean spacious, fireplace room nice treat, hotel built early 1900 retains original charm character older building, buffet breakfast wonderful quiches fresh fruits pastries cereal sausages, expected, room faced street yes street noise, no expect large city, true no air conditioning fact hotels city a/c, mild climate san francisco needed, parking site bit wait car brought need immediately, little planning ahead non-issue, decided shopping day departure hotel stored luggage returned, called ahead car waiting returned, hotel walking distance great restaurants shopping cable car lines, definitely"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 839,
+        "text": "great inn great location great service husband stay anniversary, booked luxury king room anniversary, decided white swan reading great reviews site, arrived greeted warmly genlteman desk, check quick efficient, presented list local restaurants check useful short walk hotel, desk great source suggestions type place wanted eat, nice surprise open door bottle champagne chocolates balloons note welcoming us.we really enjoyed buffet breakfast morning pleasure wake morning able just downstairs breakfast waiting, not normal continental breakfast b b wonderful breakfast assortment baked goods hot cereal quiche fruit salad scrambled eggs sausage ect.. coffee tea available time anytime.the evening wine hour treat guest gathered fireplace chatted day city, met nice people visiting world.the room clean cozy fireplace nice sit long day sightseeing, understand room, best thing white swan staff willing answer questions good making feel n't, definately stay"
+    },
+	{
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 849,
+        "text": "relaxing accomodating-nice atmosphere stayed night obvious great close convenient hide-away place interested staying close major downtown s. f. sites points, room clean spacious appointed-no upsetting surprizes disappointments, ca n't beat fireplace unwinding, maintained older building age adds character place, staff gracious welcoming, price right, definitely hope return someday"
+    },
+    {
+        "opinions": [
+			{
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }
+		],
+        "id": 859,
+        "text": "enjoyed stay wonderful stay white swan inn, location convenient union square chinatown cable cars, room lovely clean quiet, enjoyed breakfast especially french toast morning, staff pleasant helpful somewhat busy times, definitely stay, atmosphere small hotel like large chain"
+    }	
+]	

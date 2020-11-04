@@ -1,0 +1,199 @@
+[
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 204,
+        "text": "friendly staff husband stayed nights conference st. francis, hotel does quaintness area breakfast wine cheese hour cute, elevators did not work, room good size bathroom did mold tile tub, good sized dressing room, fireplace great room nice romantic feel, mattress little firm husband noted faint mothball smell did not, short walk union sqare steep, nice touch complimentay soft drinks water split champagne room, thought good value stay time"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            }
+			
+        ],
+        "id": 214,
+        "text": "okay not choice stayed white swan petite auberge sister property past not years, quite disappointed recent stay especially compared stay 4 sisters inn.the staff varied indifferent excellent, room attractive dusty bathroom especially corners towel bars etc., turndown service 3 nights, noisy bed sagged middle.the morning breakfast good not like used, time stay"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            }			
+        ],
+        "id": 224,
+        "text": "excellent service, boyfriend just recently vacation n. california, san francisco stayed white swan, really wish hotels trip matched service quality white swan, bell boy andy, excellent enthusiastic giving recommendations, great location hotel close cable car union square, definitely recommend place friends family"
+    },
+    {
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 234,
+        "text": "home away home husband booked long weekend san francisco searching internet city hotels chose white swan location amenities noted advertisements, fact stayed additional days, not disappointed, little gem place heart city, great location quiet neighborhood street safe, wonderfully attentive staff friendly professional, took care requests provided surprise birthday gift wine delivered room chocolates balloons, room sunny nicely sized comfortable furnishings arm chairs fireplace loveseat windows, bed linens super comfy, lovely gas fireplace, tucked away little alcove coffee refrig, stocked complimentary drinks, wet bar, bath clean sized nice marble vanity, charming lobby jar freshly baked homemade cookies everyday, excellent breakfast morning main salon downstairs, area spacious cozy set like drawing rooms country manor, outside gardens areas lovely hard believe city sitting, evening wine cheese social nice allows meet guests compare outings points, highly recommend charming establishment, future trips san francisco include stay white swan"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 244,
+        "text": "fabulous white swan inn wonderfull inn awsome decorating large room best breakfast included rate ask, downstairs living rooms spacious appointed free sodas water wine cheese daily, n't ask nicer hotel staff, close san francisco reasonable rates, inn wife returning, n't asked better"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 254,
+        "text": "wonderful bed family recently stayed white swan nights, deluxe king deluxe twin room, rooms spacious nicely decorated pleasant come end day, hotel not new building comfort wanted, breakfast terrific, desk gave list recommended restaurants check offered help reservations, hotel convenient touring city really enjoyed it.in looking small hotel great location lots character recommend white swan, caution not good place elderly person, elevator small wait, used stairs time fine"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Neutral",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Neutral",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 264,
+        "text": "overrated okay hotel bit overrated tripadvisor, room okay fireplace not working asked fix got fixed stay, no bath tub just shower, breakfast alright better breakfast holiday inn not good bed breakfast, elevator terrible old forgot close door did n't shut automatically nobody use elevator, times use stairs room floor.we switched different hotel commodore days"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }		
+        ],
+        "id": 274,
+        "text": "great experience, stayed alexis years ago seattle business, recommendation local sales office, wonderful wonderful time, interaction staff friendly fast, person travelling time hotel said definitely, pet lovers welcome sign pets nice touch legged friends home, great people come lobby dogs.the manager wine reception evening allowed meet guests, evening ended spending long time talking fellow travelers, problem lingered long dinner came quite late, especially stomach east coast time"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            }		
+        ],
+        "id": 284,
+        "text": "lovely small hotel, just spent night pre-cruise, wish, hotel lovely people friendly location perfect room funky cool comfortable, corner room lower level, afraid bothered street noise honestly did n't hear noise street halls, fabulous light sleeper, bed tremendously comfortable room furnishings.the issue breakfast service, returned home email survey waiting completed returned, mentioned problem, 20 minutes nice response food beverage manager apologizing problem, surprise, expected, just true experience alexis surpassed expectations"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "general",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            }			
+        ],
+        "id": 294,
+        "text": "better good hotel looks alexis magnificent decor stayed n't help notice basics overlooked, firstly shower pitiful power barely got wet weakness pressure temperature lukewarm, secondly horrible throwback overpriced mini-bar n't hiding cupboard right middle desk means staying exuberant child better hide sweets laced big, plus staff friendly helpful"
+    },
+]

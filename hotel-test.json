@@ -1,0 +1,213 @@
+[
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }			
+        ],
+        "id": 205,
+        "text": "nice hotel great location stayed business location easy leave airport, room appointed large windows facing office building 50 feet away curtains worked, room fairly small group huge rooms, did not hotel higher mark differences expensive food just that.. expensive average, walked street 2 blocks ton great restaurants right wharf, used spa independent attached hotel, able charge room, massusse awful make sure ask massage, perfume shop not let charge room hotel pays slowly, come request larger rooms, trying special place n't gotten, say staff friendly helpful, holiday inns"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "property",
+                "target_entity": "hotel"
+            },	
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }			
+        ],
+        "id": 215,
+        "text": "excellent stay wow, fantastic stay, hotel perfectly located walked, rooms spacious decorated beautifully, offered accepted upgrade fabulous suite stay.my family stayed cruise 5 6 rooms decorated differently shaped differently really cool place stay, desk warm welcoming, food restaurant property wonderful bar building great little, met arrival, great enjoyed people area also.all great definitely stay visit"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            }		
+        ],
+        "id": 225,
+        "text": "absolute best hotel, alexis hotel far best excellent hotels life, service great food fantastic room warm feeling home plus, reccomend hotel course alexis"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+			{
+                "sentiment": "Positive",
+                "aspect": "room",
+                "target_entity": "hotel"
+            }		
+        ],
+        "id": 235,
+        "text": "best hotel seattle, time stayed kimpton hotel definitely wo n't, stayed 10 different hotels seattle years best experience staff excellent starting pleasant young lady took booking continuing stay, request asking large room possible price point 3 adults sharing room request granted, fact joked room roomier used homes, mentioned seattle celebrate friend milestone birthday pleased complmentary bottle wine chocolates, nice note hotel room, attended courtesy wine get-together pleasant friendly event, fact just prior event run friend staying hotel asked desk join answer course understand hotel just undergone extensive renovation lovely lobby room nicely appointed, lot impressive art displayed, alexis feels upscale warm time felt welcomed, impressed stayed night wished longer, hardly wait back.kudo alexis hotel"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "service",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }	
+        ],
+        "id": 245,
+        "text": "great spot, decided splurge stay downtown evening looking special, lovely staff desk feel welcome, room wonderfully upscale funky good way, comfortable bed fantastic shower, love unexpected turndown service, no view neat little terrace looked post st. windows triple glazed kept street noise minimum, checked morning treated old friends, definitely try"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 255,
+        "text": "queen queen deluxe, stayed alexis 4 nights girls getaway, consisted 3-52 yr. old women friends college, travelled best accommodations roomy places sit relax beds, did n't book room choices limited i.e, king suite sitting area pull couch caused dilemma sleep pull, decided queen deluxe said 500 sq, ft. thought plenty room, initially booked hotel website 346/night later thought accommodations hotels.com 296/night, stayed room 309 n't term use, fact kept desk chair desk obstructed pathway sleeping area bathroom, desk chair chair ottoman, needed ottoman bathroom n't counter space, just square pedestal sink cabinet lovely highly impractical especially 3 women needing use curling irons makeup using handy make mirror provided, single businessman loss razor toothbrush, coffee pot kept cabinet sink suppose plug, n't set floor plug n't reached outlet, desk unplug needed pull desk fit plug, n't sure plug long reach outlet did n't attempt, n't phone book room called desk told usually send, did suspect gentleman delivered looking tip not tipping room, 3 adults booked room set 2 saved stay friendliness entire staff fabulous location, ate bistro bar food presentation excellent, beware thirsty tho wait long time drinks bar n't busy case, 3 bartenders agreed let sit bar glass n't case bartender, ask drink n't serving waitress proceded making drinks, did norm went seattle, time order delivery longer felt realistic.if alexis provide comfortable accommodations likely stay convenient location friendly staff"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Neutral",
+                "aspect": "general",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 265,
+        "text": "wish cool, alexis help seattle contacts tell alexis artful decorations staff place stay city young well-off hip, possessing none qualities frou-frou charm hotel working hard cool lost, concede caught alexis bad night elevators redone health club closed, version honeymoon suite awkward given traveling business, oddly suite laid way 20 foot hallway formed leading actual room cleared doorway, middle hallway leading dark staircase ventured no idea lead"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "food",
+                "target_entity": "hotel"
+            }			
+        ],
+        "id": 275,
+        "text": "wexpected nicer come seattle business couple people recommended hotel, higher expectations, checked desk woman confused inexperienced, asked upgrades quoted extra 260 night, laughed, second floor stunned horrible musty smell hallways, room smelled smoky musty, really foul, went purchased incense stay, called requested room change told nothing available, room pre-paid booked on-line flight-hotel-car package, room noisy cold, sparsely decorated furnished surprising tout art hotel, curtains n't stay closed use paperclips hold dark room, hallways noisy hear coming going.the bath like holiday inn saving grace aveda products, coud n't wireless internet work cable brought took 10 minutes, concierge extremely helpful friendly knowledgeable, bed average accustomed, booked massage spa pricey quite good, period hours morning breakfast lunch 10am 11:30am not served meal"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Negative",
+                "aspect": "cleanliness",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "location",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "bathroom",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 285,
+        "text": "funky smell not decor not kimpton standards great location, paid unbelievable 329 orbitz jacuzzi suite room told join office business, rooms saw addition excessively large sparsely appointed, 12 ft. ceilngs altar like presentation jacuzzi chairs desk bed extent furnishings, like having raquteball court room chair end tv, oddities not clean despite pestered day night cleaning staff wanting refill beverage caddy just needed, word bathroom jacuzzi shower, hair.hair funky smell felt like staying guesthouse graceland 1977. needs updating.i love kimpton hotels unlike stayed"
+    },
+	{
+        "opinions": [
+            {
+                "sentiment": "Neutral",
+                "aspect": "staff",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Negative",
+                "aspect": "room",
+                "target_entity": "hotel"
+            },
+            {
+                "sentiment": "Positive",
+                "aspect": "location",
+                "target_entity": "hotel"
+            }				
+        ],
+        "id": 295,
+        "text": "pleasant stay upgrade difficult time check-in bellman took room realized occupied, wrong room number written key card, room took smoke-filled musty floor room just smelled despite non-smoking, ready hotel did n't options, fortunately frontdesk reassigned newer tower gave upgrade executive one-bedroom suite pleasant stay enjoyed spaciousness skylight living room, location perfect pike market piers, n't believe alexis, dated website photos suggest, appreciated one-bedroom room suite decent value bit 200/night"
+    },
+	
+]
