@@ -102,7 +102,7 @@
             }	
         ],
         "id": 245,
-        "text": "great spot, decided splurge stay downtown evening looking special, lovely staff desk feel welcome, room wonderfully upscale funky good way, comfortable bed fantastic shower, love unexpected turndown service, no view neat little terrace looked post st. windows triple glazed kept street noise minimum, checked morning treated old friends, definitely try"
+        "text": "hotel great spot, decided splurge stay downtown evening looking special, lovely staff desk feel welcome, room wonderfully upscale funky good way, comfortable bed fantastic shower, love unexpected turndown service, no view neat little terrace looked post st. windows triple glazed kept street noise minimum, checked morning treated old friends, definitely try"
     },
 	{
         "opinions": [
@@ -133,7 +133,7 @@
 	{
         "opinions": [
             {
-                "sentiment": "Neutral",
+                "sentiment": "Negative",
                 "aspect": "general",
                 "target_entity": "hotel"
             }				
@@ -186,12 +186,12 @@
             }				
         ],
         "id": 285,
-        "text": "funky smell not decor not kimpton standards great location, paid unbelievable 329 orbitz jacuzzi suite room told join office business, rooms saw addition excessively large sparsely appointed, 12 ft. ceilngs altar like presentation jacuzzi chairs desk bed extent furnishings, like having raquteball court room chair end tv, oddities not clean despite pestered day night cleaning staff wanting refill beverage caddy just needed, word bathroom jacuzzi shower, hair.hair funky smell felt like staying guesthouse graceland 1977. needs updating.i love kimpton hotels unlike stayed"
+        "text": "funky smell not decor not kimpton standards great location, paid unbelievable 329 orbitz jacuzzi suite room told join office business, rooms saw addition excessively large sparsely appointed, 12 ft. ceilngs altar like presentation jacuzzi chairs desk bed extent furnishings, like having raquteball court room chair end tv, oddities not clean despite pestered day night cleaning staff wanting refill beverage caddy just needed, word bathroom jacuzzi shower, hair.hair funky smell felt like staying guesthouse graceland 1977. needs updating.i love kimpton hotels unlike stayed hotel"
     },
 	{
         "opinions": [
             {
-                "sentiment": "Neutral",
+                "sentiment": "Negative",
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
@@ -208,6 +208,6 @@
         ],
         "id": 295,
         "text": "pleasant stay upgrade difficult time check-in bellman took room realized occupied, wrong room number written key card, room took smoke-filled musty floor room just smelled despite non-smoking, ready hotel did n't options, fortunately frontdesk reassigned newer tower gave upgrade executive one-bedroom suite pleasant stay enjoyed spaciousness skylight living room, location perfect pike market piers, n't believe alexis, dated website photos suggest, appreciated one-bedroom room suite decent value bit 200/night"
-    },
+    }
 	
 ]

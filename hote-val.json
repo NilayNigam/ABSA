@@ -11,12 +11,12 @@
                 "aspect": "food",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
@@ -33,12 +33,12 @@
                 "aspect": "staff",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
@@ -46,7 +46,7 @@
 			
         ],
         "id": 214,
-        "text": "okay not choice stayed white swan petite auberge sister property past not years, quite disappointed recent stay especially compared stay 4 sisters inn.the staff varied indifferent excellent, room attractive dusty bathroom especially corners towel bars etc., turndown service 3 nights, noisy bed sagged middle.the morning breakfast good not like used, time stay"
+        "text": "okay not choice stayed white swan petite auberge sister property past not years, quite disappointed recent stay especially compared stay 4 sisters inn.the staff varied indifferent excellent, room attractive dusty bathroom especially corners towel bars etc., turndown service 3 nights, noisy bed sagged middle.the morning breakfast good not like used, time stay hotel"
     },
 	{
         "opinions": [
@@ -55,7 +55,7 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "service",
                 "target_entity": "hotel"
@@ -71,7 +71,7 @@
                 "aspect": "location",
                 "target_entity": "hotel"
             },
-			{
+	    {
                 "sentiment": "Positive",
                 "aspect": "staff",
                 "target_entity": "hotel"
@@ -88,7 +88,7 @@
             }				
         ],
         "id": 234,
-        "text": "home away home husband booked long weekend san francisco searching internet city hotels chose white swan location amenities noted advertisements, fact stayed additional days, not disappointed, little gem place heart city, great location quiet neighborhood street safe, wonderfully attentive staff friendly professional, took care requests provided surprise birthday gift wine delivered room chocolates balloons, room sunny nicely sized comfortable furnishings arm chairs fireplace loveseat windows, bed linens super comfy, lovely gas fireplace, tucked away little alcove coffee refrig, stocked complimentary drinks, wet bar, bath clean sized nice marble vanity, charming lobby jar freshly baked homemade cookies everyday, excellent breakfast morning main salon downstairs, area spacious cozy set like drawing rooms country manor, outside gardens areas lovely hard believe city sitting, evening wine cheese social nice allows meet guests compare outings points, highly recommend charming establishment, future trips san francisco include stay white swan"
+        "text": "home away home husband booked hotel long weekend san francisco searching internet city hotels chose white swan location amenities noted advertisements, fact stayed additional days, not disappointed, little gem place heart city, great location quiet neighborhood street safe, wonderfully attentive staff friendly professional, took care requests provided surprise birthday gift wine delivered room chocolates balloons, room sunny nicely sized comfortable furnishings arm chairs fireplace loveseat windows, bed linens super comfy, lovely gas fireplace, tucked away little alcove coffee refrig, stocked complimentary drinks, wet bar, bath clean sized nice marble vanity, charming lobby jar freshly baked homemade cookies everyday, excellent breakfast morning main salon downstairs, area spacious cozy set like drawing rooms country manor, outside gardens areas lovely hard believe city sitting, evening wine cheese social nice allows meet guests compare outings points, highly recommend charming establishment, future trips san francisco include stay white swan"
     },
 	{
         "opinions": [
@@ -104,7 +104,7 @@
             }				
         ],
         "id": 244,
-        "text": "fabulous white swan inn wonderfull inn awsome decorating large room best breakfast included rate ask, downstairs living rooms spacious appointed free sodas water wine cheese daily, n't ask nicer hotel staff, close san francisco reasonable rates, inn wife returning, n't asked better"
+        "text": "fabulous white swan inn wonderfull hotel  awsome decorating large room best breakfast included rate ask, downstairs living rooms spacious appointed free sodas water wine cheese daily, n't ask nicer hotel staff, close san francisco reasonable rates, inn wife returning, n't asked better"
     },
 	{
         "opinions": [
@@ -125,12 +125,12 @@
 	{
         "opinions": [
             {
-                "sentiment": "Neutral",
+                "sentiment": "Negative",
                 "aspect": "room",
                 "target_entity": "hotel"
             },
             {
-                "sentiment": "Neutral",
+                "sentiment": "Negative",
                 "aspect": "bathroom",
                 "target_entity": "hotel"
             },
@@ -195,5 +195,5 @@
         ],
         "id": 294,
         "text": "better good hotel looks alexis magnificent decor stayed n't help notice basics overlooked, firstly shower pitiful power barely got wet weakness pressure temperature lukewarm, secondly horrible throwback overpriced mini-bar n't hiding cupboard right middle desk means staying exuberant child better hide sweets laced big, plus staff friendly helpful"
-    },
+    }
 ]
